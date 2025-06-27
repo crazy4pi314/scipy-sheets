@@ -58,7 +58,7 @@ jobs:
     # Build the book
     - name: Build the book
       run: |
-        jupyter-book build --html
+        jupyter-book build --html --ci
 
     # Upload the book's HTML as an artifact
     - name: Upload artifact
