@@ -11,7 +11,7 @@ on:
     #
     # paths:
     # - some-subfolder/**
-  workflow_dispatch # Allows manual triggering of the workflow
+  workflow_dispatch: # Allows manual triggering of the workflow
 
 
 # This job installs dependencies, builds the book, and pushes it to `gh-pages`
