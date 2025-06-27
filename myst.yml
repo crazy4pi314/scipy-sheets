@@ -1,0 +1,27 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: afbdc57b-2d62-416c-af82-d70468152571
+  title: "Develop Pythonic Spreadsheets"
+  # description:
+  # keywords: []
+  license: MIT
+  authors: 
+    - name: Sarah Kaiser
+      affiliation: Microsoft
+      github: crazy4pi314
+      url: "https://sckaiser.com"
+    - name: Jim Kitchen
+      affiliation: Anaconda
+      github: jim22k
+  github: https://github.com/crazy4pi314/scipy-sheets
+  # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+  toc:
+  - file: "README.md"
+  - file: 0_setup-instructions.md
+  - file: "Advanced Python in Excel.ipynb"
+site:
+  template: book-theme
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png
