@@ -1,7 +1,7 @@
 # 0. Setup instructions
 
 ## Create accounts
-1. Create an [Anaconda account](https://anaconda.org/signup) if you do not already have one. This account will be used to access the Anaconda Toolbox for Excel.
+1. Create an [Anaconda account](https://auth.anaconda.com/ui/registration) if you do not already have one. This account will be used to access the Anaconda Toolbox for Excel.
 1. Create a [Microsoft 365 account](https://www.microsoft.com/en-us/microsoft-365/get-started-with-office-365) if you do not already have one. This account will be used to download the desktop version of Excel ahead of time. For this tutorial, you will be provided at the conference with an M365 login that will give you access to the Python in Excel feature. If you already have an M365 account that gives you access to Python in Excel, you can use that instead. 
 
 > To check if you have access to Python in Excel, open Excel and type `=PY()` in a cell, or look for the "Python" button in the "Formulas" tab.
