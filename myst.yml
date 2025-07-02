@@ -28,9 +28,9 @@ project:
 site:
   template: book-theme
   title: "Develop Pythonic Spreadsheets"
-  # options:
-  #   favicon: favicon.ico
-  #   logo: site_logo.png
+  options:
+  #  favicon: favicon.ico
+    logo: img/scipy-gradient.png
   actions:
     - title: "View on GitHub"
       url: "https://github.com/crazy4pi314/scipy-sheets"
