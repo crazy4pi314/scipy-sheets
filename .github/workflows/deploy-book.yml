@@ -3,7 +3,7 @@ name: deploy-book
 # Run this when the master or main branch changes
 on:
   push:
-    branches:
+    #branches:
     # - main
     # If your git repository has the Jupyter Book within some-subfolder next to
     # unrelated files, you can make this run only if a file within that specific
@@ -12,6 +12,10 @@ on:
     # paths:
     # - some-subfolder/**
   workflow_dispatch: # Allows manual triggering of the workflow
+env:
+  # `BASE_URL` determines the website is served from, including CSS & JS assets
+  # You may need to change this to `BASE_URL: ''`
+  BASE_URL: /${{ github.event.repository.name }}/
 
 
 # This job installs dependencies, builds the book, and pushes it to `gh-pages`
