@@ -17,9 +17,14 @@ project:
   github: https://github.com/crazy4pi314/scipy-sheets
   # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
   toc:
-  - file: "README.md"
+  - file: README.md
   - file: 0_setup-instructions.md
-  - file: "Advanced Python in Excel.ipynb"
+  - file: 1_spreadsheet-intro.md
+  - file: 2_pandas-and-spreadsheets.md
+  - file: 3_openpyxl.md
+  - file: 4_python-in-excel.md
+  - file: 5_python-in-excel-advanced.ipynb
+  
 site:
   template: book-theme
   # options:
