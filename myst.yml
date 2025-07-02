@@ -31,6 +31,9 @@ site:
   options:
   #  favicon: favicon.ico
     logo: img/scipy-gradient.png
+    logo_dark: img/scipy-gradient.png
   actions:
-    - title: "View on GitHub"
+    - title: "GitHub"
       url: "https://github.com/crazy4pi314/scipy-sheets"
+    - title: "Slides"
+      url: ""
