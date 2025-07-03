@@ -12,7 +12,9 @@ From here, follow the instructions for your operating system to finish setting u
 ## MacOS and Windows
 
 ### Download Desktop Excel
-Follow the [instructions](https://support.microsoft.com/en-us/office/download-install-or-reinstall-microsoft-365-or-office-2024-on-a-pc-or-mac-4414eaaf-0478-48be-9c42-23adc4716658) for downloading and installing the desktop version of Excel here. Use your free/personal M365 account to sign in as the instructions request.
+Download the appropriate [installer](https://www.microsoft.com/en-us/microsoft-365/download-office#download) for your operating system. After installing, use your M365 account to sign in.
+
+If you have a free/personal M365 account, you will likely see a popup when you open Excel asking you to start a 1-month trial or start a 5-day pass. Choose either option, or wait until the tutorial where a temporary account will be provided for tutorial attendees.
 
 ### Install the Anaconda Toolbox
 Install the [Anaconda Toolbox](https://www.anaconda.com/docs/tools/excel/install) for Excel. This is an add-in that provides access to the Anaconda Python distribution and its packages directly from Excel.
