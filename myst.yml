@@ -19,17 +19,18 @@ project:
   toc:
   - file: README.md
   - file: 0_setup-instructions.md
-  - file: 1_spreadsheet-intro.md
-  - file: 2_pandas-and-spreadsheets.md
-  - file: 3_openpyxl.md
+  - file: 1_intro.md
+  - file: 2_pandas.ipynb
+  - file: 3_openpyxl.ipynb
   - file: 4_python-in-excel.md
   - file: 5_python-in-excel-advanced.ipynb
+  - file: 6_anaconda-toolbox-and-code.ipynb
   
 site:
   template: book-theme
   title: "Develop Pythonic Spreadsheets"
   options:
-  #  favicon: favicon.ico
+    favicon: img/favicon.png
     logo: img/scipy-gradient.png
     logo_dark: img/scipy-gradient.png
   actions:
