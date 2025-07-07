@@ -20,11 +20,12 @@ project:
   - file: README.md
   - file: 0_setup-instructions.md
   - file: 1_intro.md
-  - file: 2_pandas.ipynb
-  - file: 3_openpyxl.ipynb
-  - file: 4_python-in-excel.md
-  - file: 5_python-in-excel-advanced.ipynb
-  - file: 6_anaconda-toolbox-and-code.ipynb
+  - file: 2_python-in-excel.md
+  - file: 3_python-in-excel-advanced.ipynb
+  - file: 4_copilot-for-python.md
+  - file: 5_anaconda-toolbox-and-code.ipynb
+  - file: 6_pandas.ipynb
+  - file: 7_openpyxl.ipynb
   
 site:
   template: book-theme
