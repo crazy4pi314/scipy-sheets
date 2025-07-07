@@ -1,3 +1,3 @@
 # 2. Python in Excel
 
-See the [slides](2_scipy-sheets-python-in-excel.pdf) for this section.
+See the [slides](scipy-sheets-slides.pdf) for this section.

@@ -1,3 +1,3 @@
 # 4. Advanced Analysis + Copilot for Python in Excel
 
-See the [slides](4_scipy-sheets-AA.pdf) for this section.
+See the [slides](scipy-sheets-slides.pdf) for this section.
